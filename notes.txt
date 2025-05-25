@@ -1,0 +1,4 @@
+streamlit run app.py
+python3 app.py
+source env/bin/activate
+python3 -m venv env
