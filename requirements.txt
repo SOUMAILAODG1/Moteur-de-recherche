@@ -1,0 +1,5 @@
+# requirements.txt
+streamlit
+wikipedia-api
+requests
+beautifulsoup4
